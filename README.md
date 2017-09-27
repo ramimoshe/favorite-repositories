@@ -22,4 +22,5 @@
 ## General sources to learn
  - Best-websites-a-programmer-should-visit - https://github.com/sdmg15/Best-websites-a-programmer-should-visit
  - Every Programmer Should Know -            https://github.com/mr-mig/every-programmer-should-know
+ - List of Free Learning Resources -         https://github.com/EbookFoundation/free-programming-books
 
